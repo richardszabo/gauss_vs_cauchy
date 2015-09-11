@@ -1,0 +1,4 @@
+Gauss vs Cauchy distribution plotting
+=====================================
+2015. 09. 11.
+- First version: it was not easy to plot Gauss using graph.js from javascript physics book.
