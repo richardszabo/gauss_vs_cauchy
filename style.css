@@ -2,5 +2,18 @@ body {
   background-color: #666;
 }
 #canvas {
-  background-color: #fff;
+    background-color: #fff;    
 }
+
+canvas {
+    position: absolute;
+    width: 700px;
+    height: 500px;
+}
+#canvas {
+    z-index: 1;
+}
+#plot_canvas {
+    z-index: 2;
+}
+
