@@ -7,3 +7,6 @@ Gauss vs Cauchy distribution plotting
 2015. 09. 18.
 - Using second canvas to draw the plot.
 - Plot creation from pixel to pixel. requestAnimationFrame is necessary to show the changes one by one. Using timing as well to avoid unresponsive browser.
+
+2015. 09. 21.
+- Using clearRect and complete redraw to clean up old data instead of ctx.globalCompositeOperation = "destination-out" what is not working for stroke (at least for me).
