@@ -10,3 +10,6 @@ Gauss vs Cauchy distribution plotting
 
 2015. 09. 21.
 - Using clearRect and complete redraw to clean up old data instead of ctx.globalCompositeOperation = "destination-out" what is not working for stroke (at least for me).
+
+2015. 09. 24.
+- Canvas fills the whole window.

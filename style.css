@@ -7,8 +7,8 @@ body {
 
 canvas {
     position: absolute;
-    width: 700px;
-    height: 500px;
+//    width: 700px;
+//    height: 500px;
 }
 #canvas {
     z-index: 1;
