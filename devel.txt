@@ -25,4 +25,5 @@ Gauss vs Cauchy distribution plotting
   - helper.js has been split to gauss and cauchy function files with define.
   - Graph is OK with new define.
   - Graph example functions need to be inside constructor definition.
-  - New app.js requires Graph example as our main function.  
+  - New app.js requires Graph example as our main function.
+  - Code cleanup: loop in app, prototype put back. 
