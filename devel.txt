@@ -19,4 +19,10 @@ Gauss vs Cauchy distribution plotting
 
 2015. 10. 02.
 - Helper function became one module in helper.js.
-- Graph_example became one module in graph-example.js. 
+- Graph_example became one module in graph-example.js.
+- Usage of require.js, it was quite complex to reorganize the code and it works after thousand attempts:
+  - Filenames match declared modules names.
+  - helper.js has been split to gauss and cauchy function files with define.
+  - Graph is OK with new define.
+  - Graph example functions need to be inside constructor definition.
+  - New app.js requires Graph example as our main function.  
