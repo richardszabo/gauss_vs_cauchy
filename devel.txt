@@ -18,4 +18,5 @@ Gauss vs Cauchy distribution plotting
 - Canvas scaling dinamically changes as plot would overflow at the top.
 
 2015. 10. 02.
-- helper function became one module in helper.js.
+- Helper function became one module in helper.js.
+- Graph_example became one module in graph-example.js. 
