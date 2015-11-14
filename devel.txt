@@ -26,4 +26,7 @@ Gauss vs Cauchy distribution plotting
   - Graph is OK with new define.
   - Graph example functions need to be inside constructor definition.
   - New app.js requires Graph example as our main function.
-  - Code cleanup: loop in app, prototype put back. 
+  - Code cleanup: loop in app, prototype put back.
+
+2015. 11. 14.
+- Dynamic resize of canvas when screen size changes.
