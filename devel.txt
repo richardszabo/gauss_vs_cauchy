@@ -30,3 +30,6 @@ Gauss vs Cauchy distribution plotting
 
 2015. 11. 14.
 - Dynamic resize of canvas when screen size changes.
+
+2015. 11. 21.
+- Added to github.
