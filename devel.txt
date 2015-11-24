@@ -33,3 +33,6 @@ Gauss vs Cauchy distribution plotting
 
 2015. 11. 21.
 - Added to github.
+
+2015. 11. 24.
+- Webpage image added.
